@@ -18,6 +18,10 @@ Description: Inserts %>.% (wrapr to dot pipe) at the cursor position.
 Binding: insertToDotPipeAddin
 Interactive: false
 
+Name: Insert %>>%
+Description: Inserts %>>% (pipeR pipe) at the cursor position.
+Binding: insertPipeRPipeAddin
+Interactive: false
 
 Name: Insert %>%
 Description: Inserts %>% (Magrittr pipe) at the cursor position.

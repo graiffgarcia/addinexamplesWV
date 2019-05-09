@@ -4,5 +4,5 @@
 #'
 #' @export
 insertPipeRPipeAddin <- function() {
-  rstudioapi::insertText("%>>%")
+  rstudioapi::insertText("%>>% ")
 }
