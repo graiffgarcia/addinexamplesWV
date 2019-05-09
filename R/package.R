@@ -1,10 +1,10 @@
-#' addinexamplesWV
+#' addinexamplesRG
 #'
 #' Supplies insertDotPipeAdin.
 #'
-#' This package (\url{https://github.com/WinVector/addinexamplesWV}) is a fork of \url{https://github.com/rstudio/addinexamples}.
+#' This package (\url{https://github.com/graiffgarcia/addinexamplesRG}) is a fork of \url{https://github.com/WinVector/addinexamplesWV}.
 #'
-#' @name addinexamplesWV
+#' @name addinexamplesRG
 #' @docType package
 #' @import shiny miniUI rstudioapi formatR
 NULL
