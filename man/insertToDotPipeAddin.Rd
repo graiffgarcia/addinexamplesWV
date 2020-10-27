@@ -2,7 +2,7 @@
 % Please edit documentation in R/insertToDotPipeAddin.R
 \name{insertToDotPipeAddin}
 \alias{insertToDotPipeAddin}
-\title{Insert \%>.\% .}
+\title{Insert ' \%>.\% '.}
 \usage{
 insertToDotPipeAddin()
 }

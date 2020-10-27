@@ -58,3 +58,7 @@ Description: Inserts user chosen text at the cursor position.
 Binding: insertUsr3Addin
 Interactive: false
 
+Name: New document with preamble
+Description: Creates a new document with a default preamble.
+Binding: new_doc_with_preamble
+Interactive: false

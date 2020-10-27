@@ -3,7 +3,6 @@
 \docType{package}
 \name{addinexamplesRG}
 \alias{addinexamplesRG}
-\alias{addinexamplesRG-package}
 \title{addinexamplesRG}
 \description{
 Supplies insertDotPipeAdin.
