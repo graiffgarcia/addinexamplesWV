@@ -4,7 +4,7 @@
 \alias{new_doc_with_preamble}
 \title{Clean the environment and run the active script}
 \usage{
-new_doc_with_preamble()
+new_doc_with_preamble(preamble = default_preamble)
 }
 \description{
 Clean the environment and run the active script
